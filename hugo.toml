@@ -1,0 +1,79 @@
+baseURL = "https://ndthp.com/"
+locale = "en-us"
+title = "Niraj Thapaliya"
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Niraj Thapaliya"
+  description = "Data scientist and software engineer — Harvard MLA in Data Science, 5 years production engineering."
+  keywords = ["data science", "machine learning", "computer vision", "LLM", "software engineer"]
+  DateFormat = "January 2006"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = false
+  disableSpecial1stPost = true
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+
+  [params.homeInfoParams]
+    Title = "Niraj Thapaliya"
+    Content = """
+Data scientist and software engineer. Currently completing a master's in data science at Harvard, with five years of prior production engineering experience building large-scale software.
+
+Work spans computer vision, LLM fine-tuning, statistical modeling, and applied ML — with the production instincts to take models from prototype to deployment.
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/nthapaliya"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:changeme@gmail.com"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/nthapaliya"
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
+    style = "github-dark"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
