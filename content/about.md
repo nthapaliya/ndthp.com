@@ -28,5 +28,5 @@ spend time cooking and hiking.
 
 ---
 
-**Contact:** [changeme@gmail.com](mailto:changeme@gmail.com)
+**Contact:** [hello@ndthp.com](mailto:hello@ndthp.com)
 **GitHub:** [github.com/nthapaliya](https://github.com/nthapaliya)
