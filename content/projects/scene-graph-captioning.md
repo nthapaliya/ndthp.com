@@ -2,11 +2,14 @@
 title: "Context-Aware Image Captioning with Scene Graphs"
 date: 2026-05-01
 tags: ["computer vision", "PyTorch", "YOLO", "transformers", "NLP"]
-summary: "End-to-end image captioning pipeline conditioned on structured scene graph triples. BLEU-4 +11.4% over an image-only baseline."
+summary: "End-to-end image captioning pipeline conditioned on structured scene graph triples."
 ---
 
 **Course:** CSCI E-25 (Computer Vision), Harvard Extension School, Spring 2026
+
 **Code:** [github.com/nthapaliya/scene-graph-captioning](https://github.com/nthapaliya/scene-graph-captioning)
+
+**Report:** [View on Github](https://github.com/nthapaliya/scene-graph-captioning/blob/main/SG_captioning.md)
 
 ---
 
