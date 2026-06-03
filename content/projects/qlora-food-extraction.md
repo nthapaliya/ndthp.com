@@ -9,6 +9,10 @@ summary: "Fine-tuning a 3B instruct model with QLoRA to produce strict JSON from
 
 **Code:** [github.com/nthapaliya/qlora-food-extraction](https://github.com/nthapaliya/qlora-food-extraction)
 
+**Report:** [View on Github](https://github.com/nthapaliya/qlora-food-extraction/blob/main/report.pdf)
+
+**Notebook:** [View on Github](https://github.com/nthapaliya/qlora-food-extraction/blob/main/qlora-food-extraction.md)
+
 ---
 
 ## The task

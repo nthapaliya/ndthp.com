@@ -9,6 +9,8 @@ summary: "Comparison of three CNN architectures for 4× single-image super-resol
 
 **Code:** [github.com/nthapaliya/cnn-image-upscaling](https://github.com/nthapaliya/cnn-image-upscaling)
 
+**Notebook:** [View on Github](https://github.com/nthapaliya/cnn-image-upscaling/blob/main/cnn_image_upscaling.md)
+
 ---
 
 ## Overview

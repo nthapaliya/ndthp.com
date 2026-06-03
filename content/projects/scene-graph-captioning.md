@@ -9,7 +9,7 @@ summary: "End-to-end image captioning pipeline conditioned on structured scene g
 
 **Code:** [github.com/nthapaliya/scene-graph-captioning](https://github.com/nthapaliya/scene-graph-captioning)
 
-**Report:** [View on Github](https://github.com/nthapaliya/scene-graph-captioning/blob/main/SG_captioning.md)
+**Notebook:** [View on Github](https://github.com/nthapaliya/scene-graph-captioning/blob/main/SG_captioning.md)
 
 ---
 
