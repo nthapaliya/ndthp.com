@@ -6,7 +6,8 @@ summary: "Rigorous evaluation of a 4-agent discussion pipeline on 7,661 benchmar
 ---
 
 **Course:** CS 109B (Advanced Data Science), Harvard, Spring 2025
-**Code:** [github.com/nthapaliya/llm-multiagent-benchmark](https://github.com/nthapaliya/llm-multiagent-benchmark)
+
+<!-- **Code:** [github.com/nthapaliya/llm-multiagent-benchmark](https://github.com/nthapaliya/llm-multiagent-benchmark) -->
 
 ---
 

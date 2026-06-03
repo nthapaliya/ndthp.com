@@ -1,11 +1,12 @@
 ---
 title: "CNN Image Super-Resolution (4× Upscaling)"
-date: 2024-12-01
+date: 2024-12-02
 tags: ["deep learning", "computer vision", "CNN", "TensorFlow", "Keras"]
 summary: "Comparison of three CNN architectures for 4× single-image super-resolution on the FFHQ dataset. Evaluated with PSNR and SSIM."
 ---
 
 **Course:** CSCI E-89 (Deep Learning), Harvard Extension School, Fall 2024
+
 **Code:** [github.com/nthapaliya/cnn-image-upscaling](https://github.com/nthapaliya/cnn-image-upscaling)
 
 ---

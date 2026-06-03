@@ -6,6 +6,7 @@ summary: "Fine-tuning a 3B instruct model with QLoRA to produce strict JSON from
 ---
 
 **Course:** CSCI E-222 (Foundations of Large Language Models), Harvard Extension School, Spring 2026
+
 **Code:** [github.com/nthapaliya/qlora-food-extraction](https://github.com/nthapaliya/qlora-food-extraction)
 
 ---
