@@ -2,7 +2,7 @@
 title: "Resume"
 layout: "page"
 url: "/resume/"
-summary: "Resume — Niraj Thapaliya"
+summary: "Resume - Niraj Thapaliya"
 ---
 
 [**Download PDF**](/resume.pdf)
@@ -11,10 +11,10 @@ summary: "Resume — Niraj Thapaliya"
 
 ## Education
 
-**Harvard Extension School** — Master's in Data Science (M.L.A.), expected May 2026
+**Harvard Extension School** - Master's in Data Science (M.L.A.), expected May 2026
 *Coursework:* Intro to Data Science (CS 109A/B), Deep Learning (E-89), Advanced Deep Learning (E-104), Computer Vision (E-25), Foundations of LLMs (E-222), Statistical Data Modeling (E-106), Data Structures (S-22)
 
-**Amherst College** — B.A., Physics, 2014
+**Amherst College** - B.A., Physics, 2014
 
 ---
 
@@ -26,15 +26,15 @@ See the [Projects](/projects/) page for full write-ups.
 
 ## Work Experience
 
-**OfficeSpace Software** — Software Developer → Senior Software Developer (2016–2021)
+**OfficeSpace Software** - Software Developer → Senior Software Developer (2016–2021)
 Built and scaled features for a hybrid-workplace SaaS platform (~700 enterprise clients, 2M users).
 - Reduced idle frontend CPU load by 90% through systematic profiling
 - Designed and built customer-facing RESTful APIs; maintained GCP and Azure infrastructure
 - Rewrote backend from Java to Ruby/Rails and frontend from Flash to React/HTML5
 
-**Humble Bones Granola** — Co-founder (2021–2023)
+**Humble Bones Granola** - Co-founder (2021–2023)
 
-**Northeast Regional Training Institute** — Mentor & Volunteer (2021–present)
+**Northeast Regional Training Institute** - Mentor & Volunteer (2021–present)
 
 ---
 
